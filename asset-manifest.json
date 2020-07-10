@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Currygobig30/todolist.git/static/css/main.b260f974.chunk.css",
+    "main.js": "/Currygobig30/todolist.git/static/js/main.792263e3.chunk.js",
+    "main.js.map": "/Currygobig30/todolist.git/static/js/main.792263e3.chunk.js.map",
+    "runtime-main.js": "/Currygobig30/todolist.git/static/js/runtime-main.b01e17bd.js",
+    "runtime-main.js.map": "/Currygobig30/todolist.git/static/js/runtime-main.b01e17bd.js.map",
+    "static/js/2.cf37e1e2.chunk.js": "/Currygobig30/todolist.git/static/js/2.cf37e1e2.chunk.js",
+    "static/js/2.cf37e1e2.chunk.js.map": "/Currygobig30/todolist.git/static/js/2.cf37e1e2.chunk.js.map",
+    "index.html": "/Currygobig30/todolist.git/index.html",
+    "precache-manifest.033cdaaddc8ab4866a615e8884f7eb14.js": "/Currygobig30/todolist.git/precache-manifest.033cdaaddc8ab4866a615e8884f7eb14.js",
+    "service-worker.js": "/Currygobig30/todolist.git/service-worker.js",
+    "static/css/main.b260f974.chunk.css.map": "/Currygobig30/todolist.git/static/css/main.b260f974.chunk.css.map",
+    "static/js/2.cf37e1e2.chunk.js.LICENSE.txt": "/Currygobig30/todolist.git/static/js/2.cf37e1e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b01e17bd.js",
+    "static/js/2.cf37e1e2.chunk.js",
+    "static/css/main.b260f974.chunk.css",
+    "static/js/main.792263e3.chunk.js"
+  ]
+}
